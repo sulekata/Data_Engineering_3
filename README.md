@@ -1,0 +1,2 @@
+# Data Engineering 3 - Big Data and Cloud Computing
+This repository contains Kata Süle's solution for the 'Interacting with AWS through R' assignment in the Data Engineering 3 course at Central European University. The blog post - titled Entity and Key Phrase Recognition with AWS in the Spirit of Christmas - using this code can be found on [medium.com](https://kata-sule.medium.com/entity-and-key-phrase-recognition-with-aws-in-the-spirit-of-christmas-d0f32aef2b46).
